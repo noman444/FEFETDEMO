@@ -1,0 +1,11 @@
+@font-face { font-family: RussellSquare; src: url("/fonts/RussellSquareRegular.ttf"); }
+@font-face { font-family: SpaceGrotesk; src: url("/fonts/SpaceGrotesk-VariableFont_wght.ttf"); }
+.fontrussel[data-v-204f96f2] { font-family: RussellSquare, sans-serif, serif; }
+.fontGrotesk[data-v-204f96f2] { font-family: SpaceGrotesk, sans-serif, serif; }
+h2[data-v-204f96f2] { color: rgb(255, 255, 255); font-family: RussellSquare, sans-serif, serif; font-size: 57px; font-weight: 100; line-height: 1em; letter-spacing: 1.3px; }
+@media screen and (max-width: 768px) {
+  h2[data-v-204f96f2] { font-size: 30px; }
+}
+@media screen and (max-width: 576px) {
+  h2[data-v-204f96f2] { font-size: 20px; }
+}
